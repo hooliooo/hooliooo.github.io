@@ -6,7 +6,7 @@ My [github profile](https://github.com/hooliooo) contains mostly hobby projects 
 
 # Favorite OSS Projects
 
-* [Cyanic](https://github.com/feilfeilundfeil/Cyanic) - a reactive, state driven UI framework created at Feil, Feil & Feil GmbH where I was the primary author
+* [Cyanic](https://github.com/feilfeilundfeil/Cyanic) - a reactive, state driven UI framework created at Feil, Feil & Feil GmbH where I am the primary author and maintainer
 
 * [CodeBuilder](https://github.com/hooliooo/CodeBuilder) - A tiny Swift library that leverages function builders to create Swift code
 
